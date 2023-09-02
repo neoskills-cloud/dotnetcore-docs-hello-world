@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'neoskills'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3DF212B1440D486382E0C74BDC7A502D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8CFEEDF2F5340B4996A842C9B627AFF }}
           package: .
